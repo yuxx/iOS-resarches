@@ -25,7 +25,7 @@ final class HomeViewController: UIViewController {
             ("Mercedes", .cyan),
             ("Ferrari", .red),
             ("McLaren", .orange),
-            ("RedBull", .systemIndigo),
+            ("RedBull", .purple),
             ("Williams", .white),
         ]),
         ("Recommend", [
@@ -36,7 +36,7 @@ final class HomeViewController: UIViewController {
         ("Recommend", [
             ("Italy", .red),
             ("United Kingdom", .green),
-            ("Austria", .systemIndigo),
+            ("Austria", .white),
         ]),
     ]
 
