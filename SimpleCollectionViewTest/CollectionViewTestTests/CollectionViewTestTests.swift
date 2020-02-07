@@ -3,7 +3,7 @@
 //  CollectionViewTestTests
 //
 //  Created by Yuji Sakata on 2020/01/31.
-//  Copyright © 2020 yuxx. All rights reserved.
+//  Copyright © 2020 yu++. All rights reserved.
 //
 
 import XCTest

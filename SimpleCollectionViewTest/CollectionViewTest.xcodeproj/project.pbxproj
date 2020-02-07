@@ -193,7 +193,7 @@
 		38C710059E9ECC2C40799F81 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				ORGANIZATIONNAME = "Yuji Sakata";
+				ORGANIZATIONNAME = "yu++";
 			};
 			buildConfigurationList = 38C7141A4C62F6864CD5889D /* Build configuration list for PBXProject "CollectionViewTest" */;
 			compatibilityVersion = "Xcode 3.2";

@@ -1,6 +1,6 @@
 //
-// Created by Yuji Sakata on 2020/01/31.
-// Copyright (c) 2020 Yuji Sakata. All rights reserved.
+// Created by yu++ on 2020/01/31.
+// Copyright (c) 2020 yu++. All rights reserved.
 //
 
 import UIKit
