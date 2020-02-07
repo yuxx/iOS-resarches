@@ -199,7 +199,7 @@
 		38C710059E9ECC2C40799F81 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				ORGANIZATIONNAME = "Yuji Sakata";
+				ORGANIZATIONNAME = "yu++";
 				TargetAttributes = {
 					38C71B8DF1415116BD168396 = {
 						DevelopmentTeam = QA5S8CT4JX;
